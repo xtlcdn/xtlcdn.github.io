@@ -1,0 +1,4 @@
+[submodule "vrchat/yttl-data"]
+	path = vrchat/yttl-data
+	url = https://github.com/ureishi/yttl-data.git
+	branch = v2
